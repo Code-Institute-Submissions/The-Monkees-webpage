@@ -1,5 +1,6 @@
 Welcome to The Monkees.
 
+
 My project is a website that has been based on a band called 'The Monkees' with years experince. 
 I have created a 4 page website included with assets such as images and videos and links to social Media. My primary target
 is the fans who want the oppurtunity to use the site to view photos and videos from the band and 
@@ -147,11 +148,9 @@ All the rest of my links worked straight away which I was pleased with. I used i
         2. click on any of the social media buttons, Twitter,Facebook or youtube.
         3. It will be directed straight to site that you click on.
        
-     
-     
-     
-
 credit:
+
+To all the different webpages I got my code for such as bootstraop,www.w3schools,wordpress,
 
 Content:
 The youtube clips were from youtube.
