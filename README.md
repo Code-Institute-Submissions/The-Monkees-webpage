@@ -1,29 +1,29 @@
-Welcome to The Monkees.
+# Welcome to The Monkees. #
 
 
-My project is a website that has been based on a band called 'The Monkees' with years experince. 
+ My project is a website that has been based on a band called 'The Monkees' with years experince. 
 I have created a 4 page website included with assets such as images and videos and links to social Media. My primary target
 is the fans who want the oppurtunity to use the site to view photos and videos from the band and 
 also information on avaliablity for events such as wedding and christmas parties. 
 
-UX
+# UX #
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
 This is a website created for users, my primary target is to achieve the goal of being able view music and photos of this band and also events taking place.
 
 My website will be a 4 page website created with a homepage, music page, gallery page and a contact page. These page will allow me to achieve my goals.
 
-As a user type, I would like to create a page to view music on the site for users to access on my website.
-As a user type, I would like to achieve a goal of creating a contact page for users to access on my website.
+* As a user type, I would like to create a page to view music on the site for users to access on my website.
+* As a user type, I would like to achieve a goal of creating a contact page for users to access on my website.
 
 My design process for me was to draw my wireframes and add them to my project.Here is the link to view my wireframes:
-https://github.com/noellebrowne/The-Monkees-webpage/tree/master/assets/images/wireframe%20photos 
+ * https://github.com/noellebrowne/The-Monkees-webpage/tree/master/assets/images/wireframe%20photos 
 
 
 
 
 
-Planning of my website:
+# Planning of my website: #
 
 When I decided to plan my website, I looked at artists that I thought would help me and give me an idea of a layout of what should be included in my page,
 for design,colour scheme, font sizes and the flow of my page. When I understood what needed to be the base of my website such as a homepage,gallery page,music page
@@ -34,12 +34,11 @@ are well laid out and simple but easy to use and find your way around so I wante
 as they are an easy font on the eye to read.
 
 
-Features
+# Features #
 
 
-homepage:
+### Homepage ###
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
 
 I have created a navbar on all of my pages to give acccess to my diffrent pages which are a Homepage,Music page,Gallery page and contact page.
 I have a title and a wecloming message on my homepage to greet users acessing the page.
@@ -48,19 +47,21 @@ Below this I have an image included of the band playing at a event. I thought th
 Also there is a little greeting message follwed by a button to listen to music which brings you to the music page. 
 Then I have included is a footer, I have included in all four pages which black font and white background.
 
-Music page:
+### Music page  ###
 
 The navbar is included in this page so the user can access other pages while on this page.
 The music page is where the user can play four diffrent songs from the bands greatest hits through my page. These are youtube videos.
 A footer is also included.
 
-Gallery page: Users are allowed to acces photos from the band and view them on this page.This is why this page was created.
+### Gallery page ### 
+
+Users are allowed to acces photos from the band and view them on this page.This is why this page was created.
 
 Contact page: This page was created so that users could view the events and so social media links.
 Also included was a sign up form and a contact form so the fans can contact the band.
 
 
-Existing Features
+### Existing features ###
 
 Homepage - allows users to acces every page on the website.
 Music page- This has a list of four songs aswell as four youtube videos that allow users to listen to music.
@@ -72,7 +73,7 @@ for the users benefit. I would also like to include some more events that could 
 I would include a video on the homepage of the website for users to access.
 
 
-My Choice of technoloiges:
+# My Choice of technoloiges #
 
 My first page I created was my home page as that is the page that every user would first get access too.
 I added my  navbar that listed out my pages avaliable on my website as displayed to view from left to right.
@@ -97,7 +98,7 @@ As I created each page I started with the navbar and footer anf after that I add
 I picked strong colours to give my page a boost.
 
 my navbar was from bootstrap it was used as I thought it was simple for users to use to link to diffrent areas of the site I picked red for the colour as it stood out. 
-Here is the link https://getbootstrap.com/docs/3.3/components/#nav 
+Here is the link:  https://getbootstrap.com/docs/3.3/components/#nav 
 
 my footer was from the how to section of the w3schools.com website it was a fixed footer and I used this as I thought it would look best at the bottom of my website pages which I coloued red the same as my navbar.
 Here is the link to where I got my footer from https://www.w3schools.com/howto/howto_css_fixed_footer.asp
@@ -110,19 +111,21 @@ Also my contact form was from wwww3schools as it was  https://www.w3schools.com/
 to allow the user to contact the band to ask a question about booking a venue or a personal message they would like to send.
 
 
-Wire frames I designed: 
+# Wire frames I designed ### 
 
 Here I have included four wire frames from where I based the developement of my website. 
 There is a Homepage wireframe,Music wireframe, Gallery wireframe and a contact wireframe.
 They are in the assets folder, inside a images folder under Wireframe photos.
 
-Deployment of my project:
+# Deployment of my project #
+
 
  
 
 
 
-Testing process for my project:
+# Testing process for my project #
+
 
 I tested my project everytime I included an item such as a new button, a link to a diffrent page to make sure that it was working correctly. 
 I tested diffrent browser sizes as well as my navbars on each page.
@@ -148,16 +151,16 @@ All the rest of my links worked straight away which I was pleased with. I used i
         2. click on any of the social media buttons, Twitter,Facebook or youtube.
         3. It will be directed straight to site that you click on.
        
-credit:
+# Credit # 
 
 To all the different webpages I got my code for such as bootstraop,www.w3schools,wordpress,
 
-Content:
+# Content #
 The youtube clips were from youtube.
 
 
 
-Media:
+# Media #
 The photos used in this site were obtained from my assets and also google images. The Youtube Clips for my music page were from youtube. 
 My social media sites are Twitter,Facebook and Youtube 
 Twitter link page:https://twitter.com/themonkees?lang=en
@@ -165,7 +168,7 @@ Facebook Link page:https://www.facebook.com/TheMonkees/
 Youtube Link page: https://www.youtube.com/user/themonkees
 
 
-Acknowledgements
+# Acknowledgements #
  for this project I got inspiration from artists websites  and also The monkees album images I googled on google.com for my navbar and background colour for my pages.
 
 
