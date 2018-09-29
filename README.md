@@ -6,6 +6,10 @@ I have created a 4 page website included with assets such as images and videos a
 is the fans who want the oppurtunity to use the site to view photos and videos from the band and 
 also information on avaliablity for events such as wedding and christmas parties. 
 
+# Git URL #
+
+
+
 # UX #
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
 
@@ -153,10 +157,10 @@ All the rest of my links worked straight away which I was pleased with. I used i
        
 # Credit # 
 
-To all the different webpages I got my code for such as bootstraop,www.w3schools,wordpress,
-
+To all the different webpages I got my code for such as bootstraop,www.w3schools,stackoverflow.com.
 # Content #
 The youtube clips were from youtube.
+Photos were from google.
 
 
 
