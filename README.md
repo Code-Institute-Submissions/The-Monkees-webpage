@@ -120,8 +120,11 @@ Here I have included four wire frames from where I based the developement of my 
 There is a Homepage wireframe,Music wireframe, Gallery wireframe and a contact wireframe.
 They are in the assets folder, inside a images folder under Wireframe photos.
 
-Inline-style: 
-![alt text](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/homepage.jpeg "Wireframe 1 - Homepage")
+
+![Homepage](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/homepage.jpeg "Wireframe 1 - Homepage")
+![Music page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/music%20wireframe.jpeg "Wireframe 2 - Music page")
+![Gallery page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/Gallery.jpeg "Wireframe 3 - Gallery page")
+![Contact page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/contact%20wireframe.jpeg "Wireframe 4 - Contact page")
 
 
 # Deployment of my project #
