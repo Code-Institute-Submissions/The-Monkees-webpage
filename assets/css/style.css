@@ -86,8 +86,25 @@ body {
 	padding: 20px;
 	text-decoration: none;
 	width: 100%;
+	
 }
 
+/* Navbar social media icons */
+
+.navbar .socials li {
+display: inline-block;
+line-height: 60px;
+font-size: 18px;
+padding: 0 5px;
+}
+.navbar .socials li a {
+color: #555;
+}
+.navbar .socials li a:hover{
+color: #fff;
+}
+	
+}
 
 /* Sign up buttons. */
 
@@ -138,18 +155,9 @@ body {
 	display: block;
 }
 
-.footer {
-	position: fixed;
-	left: 0;
-	bottom: 0;
-	width: 100%;
-	background-color: red;
-	color: white;
-	text-align: center;
-}
 
-.row-center .col-4 .col-8 {
-	margin: 25px;
+.col-md-6 .col-md-6-offset {
+	margin: 10px;
 	border: 25px solid #e6f9ff;
 	width: 100%;
 	align-items: center;
@@ -177,6 +185,17 @@ textarea {
     border-radius: 4px;
     background-color: #f8f8f8;
     resize: none;
+}
+
+.footer {
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	color: white;
+	text-align: center;
+	height: 16px;
 }
 
 
