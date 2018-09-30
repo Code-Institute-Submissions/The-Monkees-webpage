@@ -1,427 +1,245 @@
 body {
-font-family: 'Roboto', sans-serif;
-margin:0;
-padding: 0;
-background-color: #e6f9ff;
+	font-family: 'Roboto', sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #e6f9ff;
 }
+
 .callout-container {
-height: 100vh;
-background: ur('../images/cover.jpg') no-repeat center center fixed;
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-display: flex;
-align-items: center;
-justify-content: center;
-position: relative;
+	height: 100vh;
+	background: ur('../images/cover.jpg') no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
 }
+
 .jumbotron-container {
-display: flex;
-align-items:center;
-justify-content: center;
-width: 80px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 80px;
 }
+
+
 /* Navbar */
+
 .navbar {
-margin-bottom: 0;
-position: absolute;
-top: 0;
-left: 0;
-width: 100%;
-z-index: 1;
-background-color: red;
-border: 0;
+	margin-bottom: 0;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: 1;
+	background-color: red;
+	border: 0;
 }
-.navbar-default .navbar-collapse {
-border-color: transparent;
+
+.navbar-default .navbar-collapse-1 {
+	border-color: transparent;
+	width: 100%;
 }
+
 .navbar-default .navbar-nav a {
-font-weight: bold;
+	font-weight: bold;
 }
+
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-color: white;
-background: red;
+	color: white;
+	background: red;
 }
+
 .navbar-default .navbar-nav>li>a:focus,
 .navbar-default .navbar-nav>li>a:hover {
-color: white;
+	color: white;
 }
+
 .navbar-default .navbar-nav ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: red;
-color: white;
-width: 100%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0px;
+	overflow: hidden;
+	background-color: red;
+	color: white;
+	width: 100%;
+	text-align: center;
 }
+
 .navbar-default .navbar-nav li {
-display: inline-block;
-text-align:center;
-margin: auto;
-vertical-align: middle;
+	display: inline-block;
+	text-align: center;
+	margin: auto;
+	vertical-align: middle;
 }
+
 .navbar-default .navbar-nav li a {
-display: inline-block;
-color: white;
-text-align: center;
-vertical-align: middle;
-padding: 14px 16px;
-text-decoration: none;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	vertical-align: middle;
+	padding: 20px;
+	text-decoration: none;
+	width: 100%;
 }
+
+
 /* Sign up buttons. */
+
 .signupbtn-btn-lg {
-color: red;
+	color: blue;
 }
+
 .container-textarea {
-width: 160px;
+	width: 160px;
 }
+
+
 /* Music.html grid system */
-.row-center .col-sm-8{
-background-color: #e6f9ff;
-align-items:center;
-justify-content: center;
-display: block;
-padding: 0;
+
+.row-center .col-sm-8 {
+	background-color: #e6f9ff;
+	align-items: center;
+	justify-content: center;
+	display: block;
+	padding: 0;
 }
+
+
 /* Jumbotron */
+
 .jumbotron {
-background-color: #e6f9ff;
+	background-color: #e6f9ff;
 }
-.jumbotron h1  {
-font-weight: bold;
-margin-bottom: 30px;
-color: Red;
+
+.jumbotron h1 {
+	font-weight: bold;
+	margin-bottom: 30px;
+	color: Red;
 }
+
+
 /* Gallery.html background */
+
 .jumbotron {
-background-color: #e6f9ff ;
+	background-color: #e6f9ff;
 }
+
 .center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
+	background-color: #e6f9ff;
+	padding: 5px;
+	margin: 25px;
+	list-style-image: none;
+	display: block;
 }
+
 .footer {
-position: fixed;
-left: 0;
-bottom: 0;
-width: 100%;
-background-color: red;
-color: white;
-text-align: center;
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: red;
+	color: white;
+	text-align: center;
 }
-.row-center .col-4 .col-8{
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-text-align: center;
+
+.row-center .col-4 .col-8 {
+	margin: 25px;
+	border: 25px solid #e6f9ff;
+	width: 100%;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 5px;
+	text-align: center;
 }
+
 .img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-padding 25px;
-margin: 15px;
+	width: 100%;
+	height: auto;
+	align-items: center;
+	justify-content: center;
+	padding 25px;
+	margin: 15px;
 }
-/* Social Media Icons */
-ul.Icons {
-padding: 0;
-text-align: center;
+
+/* contact form */
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
 }
-.Icons li {
-background: Red;
-list-style: none;
-display: inline-block;
-margin: 45px;
-margin-top: 6px;
-border-radius: 2em;
-overflow:hidden;
-}
-.Icons li a {
-display: block;
-padding: .5em;
-max-width: 2.3em;
-min-width: 2.3em;
-height: 2.3em;
-white-space: nowrap;
-line-height: 1.5em;
-transition:.5s;
-text-decoration: none;
-font-family: arial;
-color: #fff;
-}
-.Icons li i {
-margin-right:.5em;
-}
-.Icons li:hover a {
-max-width:200px;
-padding-right:1em;
-}
-.Icons .facebook {
-background: #3b5998;
-box-shadow: 0 0 16px #3b5998;
-}
-.Icons .twitter {
-background: #00aced;
-box-shadow: 0 0 16px #00aced;
-}
-.Icons .youtube {
-background: #c92228;
-box-shadow: 0 0 16px #c92228;
-}
+
+
 /*--------------------------------------------------------------Media Queries*/
-/* 
-##Device = Desktops
-##Screen = 1281px to higher resolution desktops
-*/
-@media (min-width: 1281px) {
-.jumbotron {
-background-color: #e6f9ff ;
+
+@media (min-width: 768px)  {
+	.navbar-default .navbar-nav li {
+		display: inline-block;
+		text-align: center;
+		margin: auto;
+		vertical-align: middle;
+		color: white;
+	}
+	.navbar-default .navbar-nav li a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		vertical-align: middle;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	.jumbotron {
+		background-color: #e6f9ff;
+	}
+	.center-block {
+		background-color: #e6f9ff;
+		padding: 5px;
+		margin: 25px;
+		list-style-image: none;
+		display: block;
+	}
+	.row-center-col-sm-4 {
+		margin: 25px;
+		border: 25px solid #e6f9ff;
+		width: 100%;
+		align-items: center;
+		justify-content: center;
+		padding-bottom: 5px;
+	}
+	.img {
+		width: 100%;
+		height: auto;
+		align-items: center;
+		justify-content: center;
+		margin: 15px;
+	}
 }
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
-}
-}
-/* 
-##Device = Laptops, Desktops
-##Screen = B/w 1025px to 1280px
-*/
-@media (min-width: 1025px) and (max-width: 1280px) {
-.jumbotron {
-background-color: #e6f9ff ;
-}
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
-}
-/* 
-##Device = Tablets, Ipads (portrait)
-##Screen = B/w 768px to 1024px
-*/
-@media (min-width: 768px) and (max-width: 1024px) {
-.navbar-default .navbar-nav li {
-display: inline-block;
-text-align:center;
-margin: auto;
-vertical-align: middle;
-color: white;
-}
-.navbar-default .navbar-nav li a {
-display: inline-block;
-color: white;
-text-align: center;
-vertical-align: middle;
-padding: 14px 16px;
-text-decoration: none;
-}
-.jumbotron {
-background-color: #e6f9ff ;
-}
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
-}
-}
-/* 
-##Device = Tablets, Ipads (landscape)
-##Screen = B/w 768px to 1024px
-*/
-@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-.navbar-default .navbar-nav li {
-display: inline-block;
-text-align:center;
-margin: auto;
-vertical-align: middle;
-color:white;
-}
-.navbar-default .navbar-nav li a {
-display: inline-block;
-color: white;
-text-align: center;
-vertical-align: middle;
-padding: 14px 16px;
-text-decoration: none;
-}
-.jumbotron {
-background-color: #e6f9ff ;
-}
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
-}
-}
-/* 
-##Device = Low Resolution Tablets, Mobiles (Landscape)
-##Screen = B/w 481px to 767px
-*/
-@media (min-width: 481px) and (max-width: 767px) {
-.navbar-default .navbar-nav li {
-display: inline-block;
-text-align:center;
-margin: auto;
-vertical-align: middle;
-color: white;
-}
-.navbar-default .navbar-nav li a {
-display: inline-block;
-color: white;
-text-align: center;
-vertical-align: middle;
-padding: 14px 16px;
-text-decoration: none;
-}
-.jumbotron {
-background-color: #e6f9ff ;
-}
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
-}
-}
-/* 
-##Device = Most of the Smartphones Mobiles (Portrait)
-##Screen = B/w 320px to 479px
-*/
-@media (min-width: 320px) and (max-width: 480px) {
-.navbar-default .navbar-nav li {
-display: inline-block;
-text-align:center;
-margin: auto;
-vertical-align: middle;
-color: white;
-}
-.navbar-default .navbar-nav li a {
-display: inline-block;
-color: white;
-text-align: center;
-vertical-align: middle;
-padding: 14px 16px;
-text-decoration: none;
-}
-.jumbotron {
-background-color: #e6f9ff ;
-}
-.center-block {
-background-color: #e6f9ff;
-padding: 5px;
-margin: 25px;
-list-style-image: none;
-display: block;
-}
-}
-.row-center-col-sm-4 {
-margin: 25px;
-border: 25px solid #e6f9ff;
-width: 100%;
-align-items:center;
-justify-content:center;
-padding-bottom: 5px;
-}
-.img {
-width: 100%;
-height: auto;
-align-items:center;
-justify-content:center;
-margin: 15px;
+
+@media (min-width: 481px) {
+	.navbar-default .navbar-nav li {
+		display: inline-block;
+		text-align: center;
+		margin: auto;
+		vertical-align: middle;
+		color: white;
+		padding: 2px;
+	}
+	.navbar-default .navbar-nav li a {
+		display: inline-block;
+		color: white;
+		text-align: center;
+		vertical-align: middle;
+		padding: 2px;
+		text-decoration: none;
+	}
 }
