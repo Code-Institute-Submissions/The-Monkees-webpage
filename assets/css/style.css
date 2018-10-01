@@ -1,7 +1,6 @@
 body {
 	font-family: 'Roboto', sans-serif;
-	margin: 0;
-	padding: 0;
+	height: 100%;
 	background-color: #e6f9ff;
 }
 
@@ -86,25 +85,26 @@ body {
 	padding: 20px;
 	text-decoration: none;
 	width: 100%;
-	
 }
+
 
 /* Navbar social media icons */
 
 .navbar .socials li {
-display: inline-block;
-line-height: 60px;
-font-size: 18px;
-padding: 0 5px;
+	display: inline-block;
+	line-height: 60px;
+	font-size: 18px;
+	padding: 0 5px;
 }
+
 .navbar .socials li a {
-color: #555;
+	color: #555;
 }
-.navbar .socials li a:hover{
-color: #fff;
+
+.navbar .socials li a:hover {
+	color: #fff;
 }
-	
-}
+
 
 /* Sign up buttons. */
 
@@ -119,12 +119,12 @@ color: #fff;
 
 /* Music.html grid system */
 
-.row-center .col-sm-8 {
+.col-6 .col-md-4 .iframe {
 	background-color: #e6f9ff;
 	align-items: center;
 	justify-content: center;
 	display: block;
-	padding: 0;
+	padding-bottom: 100px;
 }
 
 
@@ -155,9 +155,7 @@ color: #fff;
 	display: block;
 }
 
-
 .col-md-6 .col-md-6-offset {
-	margin: 10px;
 	border: 25px solid #e6f9ff;
 	width: 100%;
 	align-items: center;
@@ -171,20 +169,20 @@ color: #fff;
 	height: auto;
 	align-items: center;
 	justify-content: center;
-	padding 25px;
-	margin: 15px;
 }
 
+
 /* contact form */
+
 textarea {
-    width: 100%;
-    height: 150px;
-    padding: 12px 20px;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    background-color: #f8f8f8;
-    resize: none;
+	width: 100%;
+	height: 150px;
+	padding: 12px 20px;
+	box-sizing: border-box;
+	border: 2px solid #ccc;
+	border-radius: 4px;
+	background-color: #f8f8f8;
+	resize: none;
 }
 
 .footer {
@@ -201,7 +199,7 @@ textarea {
 
 /*--------------------------------------------------------------Media Queries*/
 
-@media (min-width: 768px)  {
+@media (min-width: 768px) {
 	.navbar-default .navbar-nav li {
 		display: inline-block;
 		text-align: center;
@@ -220,27 +218,26 @@ textarea {
 	.jumbotron {
 		background-color: #e6f9ff;
 	}
-	.center-block {
+	.center {
 		background-color: #e6f9ff;
-		padding: 5px;
+		padding: 25px;
 		margin: 25px;
 		list-style-image: none;
 		display: block;
 	}
-	.row-center-col-sm-4 {
-		margin: 25px;
+	.col-6 .col-md-4 {
 		border: 25px solid #e6f9ff;
 		width: 100%;
 		align-items: center;
 		justify-content: center;
-		padding-bottom: 5px;
+		padding-bottom: 25px;
 	}
 	.img {
 		width: 100%;
 		height: auto;
 		align-items: center;
 		justify-content: center;
-		margin: 15px;
+		padding-bottom: 25px;
 	}
 }
 
