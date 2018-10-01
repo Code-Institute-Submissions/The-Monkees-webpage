@@ -20,8 +20,6 @@ My website will be a 4 page website created with a homepage, music page, gallery
 * As a user type, I would like to create a page to view music on the site for users to access on my website.
 * As a user type, I would like to achieve a goal of creating a contact page for users to access on my website.
 
-My design process for me was to draw my wireframes and add them to my project.Here is the link to view my wireframes:
- * https://github.com/noellebrowne/The-Monkees-webpage/tree/master/assets/images/wireframe%20photos 
 
 # Planning of my website: #
 
@@ -120,6 +118,7 @@ Here I have included four wire frames from where I based the developement of my 
 There is a Homepage wireframe,Music wireframe, Gallery wireframe and a contact wireframe.
 They are in the assets folder, inside a images folder under Wireframe photos.
 
+My design process for me was to draw my wireframes and add them to my project.
 
 ![Homepage](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/homepage.jpeg "Wireframe 1 - Homepage")
 ![Music page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/music%20wireframe.jpeg "Wireframe 2 - Music page")
