@@ -128,7 +128,8 @@ My design process for me was to draw my wireframes and add them to my project.
 
 # Deployment of my project #
 
-
+My Deployment was done by opening a terminal and then by using the code git status first followed git add (I put in my file or image) git commit -m "message on what the update was"
+and the git push to the master branch followed by my username and password.
  
 
 
@@ -139,7 +140,8 @@ My design process for me was to draw my wireframes and add them to my project.
 I tested my project everytime I included an item such as a new button, a link to a diffrent page to make sure that it was working correctly. 
 I tested diffrent browser sizes as well as my navbars on each page.
 When I added my navbar to gallery at first it didnt work as I never closed it with a closing tag but I recorrected this error, it worked straight away. 
-All the rest of my links worked straight away which I was pleased with. I used inspect to test my design as responsive accross a low-term,mid-term and
+All the rest of my links worked straight away which I was pleased with. I used inspect to test my design as responsive accross desktop and mobile devices through google chrome
+as this worked most effective for me. I tested my website on diffrent computers with windows and safari.
 
           Testing of Button
 
