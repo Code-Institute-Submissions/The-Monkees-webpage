@@ -196,66 +196,15 @@ textarea {
 	height: 16px;
 }
 
+/* Media Queries*/
 
-/*--------------------------------------------------------------Media Queries*/
-
-@media (min-width: 768px) {
-	.navbar-default .navbar-nav li {
-		display: inline-block;
-		text-align: center;
-		margin: auto;
-		vertical-align: middle;
-		color: white;
-	}
-	.navbar-default .navbar-nav li a {
-		display: inline-block;
-		color: white;
-		text-align: center;
-		vertical-align: middle;
-		padding: 14px 16px;
-		text-decoration: none;
-	}
-	.jumbotron {
-		background-color: #e6f9ff;
-	}
-	.center {
-		background-color: #e6f9ff;
-		padding: 25px;
-		margin: 25px;
-		list-style-image: none;
-		display: block;
-	}
-	.col-6 .col-md-4 {
-		border: 25px solid #e6f9ff;
-		width: 100%;
-		align-items: center;
-		justify-content: center;
-		padding-bottom: 25px;
-	}
-	.img {
-		width: 100%;
-		height: auto;
-		align-items: center;
-		justify-content: center;
-		padding-bottom: 25px;
-	}
+@media screen and (max-width:720px) {
+.iframe {
+	background-color: #e6f9ff;
+	align-items: center;
+	justify-content: center;
+	display: block;
+	padding-bottom: 100px;
 }
 
-@media (min-width: 481px) {
-	.navbar-default .navbar-nav li {
-		display: inline-block;
-		text-align: center;
-		margin: auto;
-		vertical-align: middle;
-		color: white;
-		padding: 2px;
-	}
-	.navbar-default .navbar-nav li a {
-		display: inline-block;
-		color: white;
-		text-align: center;
-		vertical-align: middle;
-		padding: 2px;
-		text-decoration: none;
-	}
 }
