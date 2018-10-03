@@ -2,6 +2,7 @@ body {
 	font-family: 'Roboto', sans-serif;
 	height: 100%;
 	background-color: #e6f9ff;
+	width: 100%;
 }
 
 .callout-container {
@@ -174,16 +175,30 @@ body {
 
 /* contact form */
 
+input {
+	border: 2px solid red;
+	border-right:1px solid red;
+	border-top-right-radius: 5px;
+  	border-top-left-radius: 5px;
+  	border-bottom-left-radius: 5px;
+  	border-bottom-right-radius: 5px;
+}
+
 textarea {
 	width: 100%;
 	height: 150px;
 	padding: 12px 20px;
 	box-sizing: border-box;
-	border: 2px solid #ccc;
+	border: 2px solid red;
 	border-radius: 4px;
 	background-color: #f8f8f8;
 	resize: none;
+	text-align: center;
+	align-items:center;
+	justify-content: center;
 }
+
+/* footer */
 
 .footer {
 	position: fixed;
@@ -193,56 +208,36 @@ textarea {
 	background-color: red;
 	color: white;
 	text-align: center;
-	height: 16px;
+	height: 35px;
 }
 
-/* Media Queries*/
-/* Custom, iPhone Retina */ 
-    @media only screen and (min-width : 320px) {
-    .col-sm-12 .Col-md-6 {
-	border: 25px solid #e6f9ff;
-	width: 100%;
-	align-items: center;
-	justify-content: center;
-	padding-bottom: 5px;
-	text-align: center;
-}
-    }
+/* Media Queires */
 
-    /* Extra Small Devices, Phones */ 
-    @media only screen and (min-width : 480px) {
-    .iframe .col-sm-12 .Col-md-6  {
-	background-color: #e6f9ff;
-	align-items: center;
-	justify-content: center;
-	display: block;
-	padding-bottom: 100px;
-}
+@media (min-width: 576px) {
+	.col-xs-12 .col-md-8  .col-md-4 {
+		
 	
-
-    }
-
-    /* Small Devices, Tablets */
-    @media only screen and (min-width : 768px) {
-.iframe .col-sm-12 .Col-md-6  {
-	background-color: #e6f9ff;
-	align-items: center;
-	justify-content: center;
-	display: block;
-	padding-bottom: 100px;
+	}
+	.col-xs-12 .col-md-6 {
+	
+	} 
+	.iframe {
+	}
 }
 
-    }
-
-    /* Medium Devices, Desktops */
-    @media only screen and (min-width : 992px) {
-.iframe .col-sm-12 .Col-md-6  {
-	background-color: #e6f9ff;
-	align-items: center;
-	justify-content: center;
-	display: block;
-	padding-bottom: 100px;
+@media (min-width: 768px) {
+	.col-xs-12 .col-md-8  .col-md-4 {
+		
+	
+	}
+	.col-xs-12 .col-md-6 {
+	
+	} 
+	.iframe {
+	}
+	
 }
 
-    }
-
+@media (min-width: 992px) {
+	
+}
