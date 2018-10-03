@@ -17,9 +17,8 @@ This is a website created for users, my primary target is to achieve the goal of
 
 My website will be a 4 page website created with a homepage, music page, gallery page and a contact page. These page will allow me to achieve my goals.
 
-* As a user type, I would like to create a page to view music on the site for users to access on my website.
-* As a user type, I would like to achieve a goal of creating a contact page for users to access on my website.
-
+* As a user type, I would like to create a page to view music on the site for users to access on my website
+  and I would like to achieve a goal of creating a contact page for users to access on my website.* 
 
 # Planning of my website: #
 
