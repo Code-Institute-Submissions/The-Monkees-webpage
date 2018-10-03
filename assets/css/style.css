@@ -177,11 +177,11 @@ body {
 
 input {
 	border: 2px solid red;
-	border-right:1px solid red;
+	border-right: 1px solid red;
 	border-top-right-radius: 5px;
-  	border-top-left-radius: 5px;
-  	border-bottom-left-radius: 5px;
-  	border-bottom-right-radius: 5px;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
 }
 
 textarea {
@@ -194,9 +194,10 @@ textarea {
 	background-color: #f8f8f8;
 	resize: none;
 	text-align: center;
-	align-items:center;
+	align-items: center;
 	justify-content: center;
 }
+
 
 /* footer */
 
@@ -209,35 +210,4 @@ textarea {
 	color: white;
 	text-align: center;
 	height: 35px;
-}
-
-/* Media Queires */
-
-@media (min-width: 576px) {
-	.col-xs-12 .col-md-8  .col-md-4 {
-		
-	
-	}
-	.col-xs-12 .col-md-6 {
-	
-	} 
-	.iframe {
-	}
-}
-
-@media (min-width: 768px) {
-	.col-xs-12 .col-md-8  .col-md-4 {
-		
-	
-	}
-	.col-xs-12 .col-md-6 {
-	
-	} 
-	.iframe {
-	}
-	
-}
-
-@media (min-width: 992px) {
-	
 }
