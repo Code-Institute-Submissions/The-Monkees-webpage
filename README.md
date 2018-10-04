@@ -1,6 +1,7 @@
 # Welcome to The Monkees. #
 
 
+
  My project is a website that has been based on a band called 'The Monkees' with years experince. 
 I have created a 4 page website included with assets such as images and videos and links to social Media. My primary target
 is the fans who want the oppurtunity to use the site to view photos and videos from the band and 
@@ -17,8 +18,25 @@ This is a website created for users, my primary target is to achieve the goal of
 
 My website will be a 4 page website created with a homepage, music page, gallery page and a contact page. These page will allow me to achieve my goals.
 
-* As a user type, I would like to create a page to view music on the site for users to access on my website
-  and I would like to achieve a goal of creating a contact page for users to access on my website.* 
+* As a user type, I would like to create a page to view music.* 
+* As a user type, I would like to create a page to view images for users to access on my website.* 
+* As a user type, I would like to achieve a goal of creating a contact page for users to access on my website.* 
+
+
+# Wire frames I designed ### 
+
+Here I have included four wire frames from where I based the developement of my website. 
+There is a Homepage wireframe,Music wireframe, Gallery wireframe and a contact wireframe.
+They are in the assets folder, inside a images folder under Wireframe photos.
+
+My design process for me was to draw my wireframes and add them to my project.
+
+![Homepage](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/homepage.jpeg "Wireframe 1 - Homepage")
+![Music page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/music%20wireframe.jpeg "Wireframe 2 - Music page")
+![Gallery page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/Gallery.jpeg "Wireframe 3 - Gallery page")
+![Contact page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/contact%20wireframe.jpeg "Wireframe 4 - Contact page")
+
+
 
 # Planning of my website: #
 
@@ -98,31 +116,17 @@ As I created each page I started with the navbar and footer and after that I add
 I picked strong colours to give my page a boost.
 
 my navbar was from bootstrap it was used as I thought it was simple for users to use to link to diffrent areas of the site I picked red for the colour as it stood out. 
-Here is the link:  https://getbootstrap.com/docs/3.3/components/#nav 
+ [I'm an inline-style link with title](https://getbootstrap.com/docs/3.3/components/#nav "Navbar")   
 
 my footer was from the how to section of the w3schools.com website it was a fixed footer and I used this as I thought it would look best at the bottom of my website pages which I coloued red the same as my navbar.
-Here is the link to where I got my footer from https://www.w3schools.com/howto/howto_css_fixed_footer.asp Iadded social media icons to it.
+Here is the link to where I got my footer from [I'm an inline-style link with title](https://www.w3schools.com/howto/howto_css_fixed_footer.asp "Footer")  I added social media icons to it.
 
-I included social media buttons for my contact page they were from https://socialmediawidgets.wordpress.com/all-the-icons/ 
+I included social media buttons for my contact page they were from [I'm an inline-style link with title](https://socialmediawidgets.wordpress.com/all-the-icons/ "Social Icons") 
 
-Also my contact form was from wwww3schools as it was  https://www.w3schools.com/bootstrap/bootstrap_ref_css_forms.asp this form was put in my contact page
+Also my contact form was from w3schools as it was [I'm an inline-style link with title](https://www.w3schools.com/bootstrap/bootstrap_ref_css_forms.asp "Contact form") this form was put in my contact page
 to allow the user to contact the band to ask a question about booking a venue or a personal message they would like to send.
 
-I also included a sign up form which I also got from https://www.w3schools.com/css/css_form.asp
-
-
-# Wire frames I designed ### 
-
-Here I have included four wire frames from where I based the developement of my website. 
-There is a Homepage wireframe,Music wireframe, Gallery wireframe and a contact wireframe.
-They are in the assets folder, inside a images folder under Wireframe photos.
-
-My design process for me was to draw my wireframes and add them to my project.
-
-![Homepage](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/homepage.jpeg "Wireframe 1 - Homepage")
-![Music page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/music%20wireframe.jpeg "Wireframe 2 - Music page")
-![Gallery page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/Gallery.jpeg "Wireframe 3 - Gallery page")
-![Contact page](https://github.com/noellebrowne/The-Monkees-webpage/blob/master/assets/images/wireframe%20photos/contact%20wireframe.jpeg "Wireframe 4 - Contact page")
+I also included a sign up form which I also got from [I'm an inline-style link with title](https://www.w3schools.com/css/css_form.asp "Sign up form") 
 
 
 # Deployment of my project #
@@ -130,7 +134,7 @@ My design process for me was to draw my wireframes and add them to my project.
 My Deployment was done by opening a terminal and then by using the code git status first followed git add (I put in my file or image) git commit -m "message on what the update was"
 and the git push to the master branch followed by my username and password.
  
-
+I deployed my page through github pages
 
 
 # Testing process for my project #
@@ -162,7 +166,10 @@ as this worked most effective for me. I tested my website on diffrent computers 
         3. It will be directed straight to site that you click on.
        
 # Credit # 
-To all the different webpages I got my code which are bootstrap,www.w3schools,stackoverflow.com and wordpress.com.
+To all the different webpages I got my code which are [I'm an inline-style link with title](https://getbootstrap.com/docs/3.3/ "bootstrap website")
+,[I'm an inline-style link with title](https://www.w3schools.com "W3schools webpage"),[I'm an inline-style link with title](https://stackoverflow.com/ "stackoverflow") wordpress.com.
+
+
 # Content #
 The youtube clips were from youtube.
 Photos were from google.
