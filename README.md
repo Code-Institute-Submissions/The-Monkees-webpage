@@ -130,6 +130,12 @@ I also included a sign up form which I also got from [Sign up form link](https:/
 
 The glyphicons are from bootstrap i used a music icon,church icon and also a cocktail icon. I felt these tied in with my band page and also looked presentable on my page. [Glyphicons link](https://getbootstrap.com/docs/3.3/components/ "glyphicons")
 
+I used a [Mark up validator](https://validator.w3.org/#validate_by_input "validator") to validate my code.
+
+I also used [freeformatter](https://www.freeformatter.com/html-formatter.html "Formatter") to intendent my code.
+
+My css was also beautified using [css beautifier](https://www.freeformatter.com/css-beautifier.html "css beautifier")
+
 # Deployment of my project #
 
 My Deployment was done by opening a terminal and then by using the code git status first followed git add (I put in my file or image) git commit -m "message on what the update was"
