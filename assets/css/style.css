@@ -174,7 +174,10 @@ body {
 
 
 /* contact form */
-
+.jumbotron-container {
+	text-align: center;
+	margin: right;
+}
 input {
 	border: 2px solid red;
 	border-right: 1px solid red;
@@ -182,6 +185,7 @@ input {
 	border-top-left-radius: 5px;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
+	text-align: center
 }
 
 textarea {
@@ -198,7 +202,7 @@ textarea {
 	justify-content: center;
 }
 /* Contact Icons */
-.col-lg-3 {
+.col-lg-4 {
 	align-items:center;
 	justify-content:center;
 	text-align: center;
