@@ -179,10 +179,11 @@ Photos were from google.
 
 # Media #
 The photos used in this site were obtained from my assets and also google images. The Youtube Clips for my music page were from youtube. 
-My social media sites are Twitter,Facebook and Youtube. 
-Twitter link page:https://twitter.com/themonkees?lang=en [Monkees band Twitter link ](https://twitter.com/themonkees?lang=en "Twitter Link")
-Facebook Link page:https://www.facebook.com/TheMonkees/  [Monkees band Facebook link ](https://www.facebook.com/TheMonkees/ "Facebook Link")
-Youtube Link page: https://www.youtube.com/user/themonkees  [Monkees band Youtube link ](https://www.youtube.com/user/themonkees "Youtube Link")
+My social media sites are Twitter,Facebook and Youtube.
+
+Twitter link page:  [Monkees band Twitter link ](https://twitter.com/themonkees?lang=en "Twitter Link")
+Facebook Link page: [Monkees band Facebook link ](https://www.facebook.com/TheMonkees/ "Facebook Link")
+Youtube Link page:  [Monkees band Youtube link ](https://www.youtube.com/user/themonkees "Youtube Link")
 
 
 # Acknowledgements #
