@@ -176,7 +176,7 @@ body {
 /* contact form */
 .jumbotron-container {
 	text-align: center;
-	margin: right;
+
 }
 input {
 	border: 2px solid red;
@@ -201,12 +201,6 @@ textarea {
 	align-items: center;
 	justify-content: center;
 }
-/* Contact Icons */
-.col-lg-4 {
-	align-items:center;
-	justify-content:center;
-	text-align: center;
-}
 
 /* footer */
 
@@ -220,3 +214,4 @@ textarea {
 	text-align: center;
 	height: 35px;
 }
+
