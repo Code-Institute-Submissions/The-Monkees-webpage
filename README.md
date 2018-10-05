@@ -110,7 +110,7 @@ as a black font. I also included a button that links too the contact page also. 
 
 My final page  is my fourth page and that was the contact page. I listed out the avaliable venues that could be booked for the band. This is was just a black font.
  I also included a sign up page as well as a contact form so users could send messages to the band with a booking or a personal message. This was finished with my footer with social media icons.
- I chose my icons which are Facebook,Twiiter and Youtube. I got my icons from the www.w3sxhools websites under the how to section. These are Links to the facebook,twitter and youtube pages of The monkees band.
+ I chose my icons which are Facebook,Twiiter and Youtube. I got my icons from the [w3schools website](www.w3sxhools.com "w3schools") websites under the how to section. These are Links to the facebook,twitter and youtube pages of The monkees band.
 
 As I created each page I started with the navbar and footer and after that I added elements like buttons, links, diffrent secions, photos, music clips to make the page more vibrant. This is also why
 I picked strong colours to give my page a boost.
@@ -168,8 +168,8 @@ as this worked most effective for me. I tested my website on diffrent computers 
         3. It will be directed straight to site that you click on.
        
 # Credit # 
-To all the different webpages I got my code which are [I'm an inline-style link with title](https://getbootstrap.com/docs/3.3/ "bootstrap website")
-,[I'm an inline-style link with title](https://www.w3schools.com "W3schools webpage"),[I'm an inline-style link with title](https://stackoverflow.com/ "stackoverflow") wordpress.com.
+To all the different webpages I got my code which are [Bootstrap website](https://getbootstrap.com/docs/3.3/ "bootstrap website")
+,[W3schools webpage](https://www.w3schools.com "W3schools webpage"),[Stackflow website](https://stackoverflow.com/ "stackoverflow") wordpress.com.
 
 
 # Content #
@@ -179,10 +179,10 @@ Photos were from google.
 
 # Media #
 The photos used in this site were obtained from my assets and also google images. The Youtube Clips for my music page were from youtube. 
-My social media sites are Twitter,Facebook and Youtube 
-Twitter link page:https://twitter.com/themonkees?lang=en
-Facebook Link page:https://www.facebook.com/TheMonkees/
-Youtube Link page: https://www.youtube.com/user/themonkees
+My social media sites are Twitter,Facebook and Youtube. 
+Twitter link page:https://twitter.com/themonkees?lang=en [Monkees band Twitter link ](https://twitter.com/themonkees?lang=en "Twitter Link")
+Facebook Link page:https://www.facebook.com/TheMonkees/  [Monkees band Facebook link ](https://www.facebook.com/TheMonkees/ "Facebook Link")
+Youtube Link page: https://www.youtube.com/user/themonkees  [Monkees band Youtube link ](https://www.youtube.com/user/themonkees "Youtube Link")
 
 
 # Acknowledgements #
